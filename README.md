@@ -1,4 +1,3 @@
-[![MasterHead](https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/programming%20evolution.jpg?itok=WTj9-yNz)
 <h1 align="center">Hi 👋, I'm Togrul Eminov</h1>
 <h3 align="center">A junior frontend developer from Azerbaijan</h3>
 <img align="right" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif" alt="coding" width="400"/>
