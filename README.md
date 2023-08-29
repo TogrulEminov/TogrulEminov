@@ -1,7 +1,6 @@
-
-    <h1 align="center">Hi 👋, I'm Togrul Eminov</h1>
+<h1 align="center">Hi 👋, I'm Togrul Eminov</h1>
 <h3 align="center">A junior frontend developer from Azerbaijan</h3>
-    <img align="center" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif" alt="coding" width="400"/>
+<img align="right" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif" alt="coding" width="400"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=togruleminov&label=Profile%20views&color=0e75b6&style=flat" alt="togruleminov" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
