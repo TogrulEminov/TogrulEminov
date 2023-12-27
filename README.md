@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React,Javascript**
 
-- 📫 How to reach me **togrul40@mail.ru**
+- 📫 How to reach me **togruleminov3@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
