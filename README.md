@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Togrul Eminov</h1>
-<h3 align="center">A junior frontend developer from Azerbaijan</h3>
+<h3 align="center">A  Frontend Developer from Azerbaijan</h3>
 <img align="right" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif" alt="coding" width="400"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=togruleminov&label=Profile%20views&color=0e75b6&style=flat" alt="togruleminov" /> </p>
 
