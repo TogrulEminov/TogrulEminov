@@ -1,29 +1,90 @@
-<h1 align="center">Hi 👋, I'm Togrul Eminov</h1>
-<h3 align="center">A  Frontend Developer from Azerbaijan</h3>
-<img align="right" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif" alt="coding" width="400"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=togruleminov&label=Profile%20views&color=0e75b6&style=flat" alt="togruleminov" /> </p>
+&lt;div align="center"&gt;
+  &lt;img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=C8102E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Togrul+Eminov;Frontend+Developer+from+Azerbaijan;Building+Modern+Web+Experiences" alt="Typing SVG" /&gt;
+&lt;/div&gt;
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+&lt;p align="center"&gt;
+  &lt;img src="https://komarev.com/ghpvc/?username=TogrulEminov&label=Profile%20views&color=C8102E&style=for-the-badge" alt="Profile Views" /&gt;
+&lt;/p&gt;
 
-- 🌱 I’m currently learning **Next Js , TypeScript**
+---
 
-- 💬 Ask me about **React,Javascript**
+## 🎯 About Me
 
-- 📫 How to reach me **togruleminov3@gmail.com**
+- 🌱 I'm currently learning **Next.js**, **TypeScript**
+- 💬 Ask me about **React**, **JavaScript**
+- 📫 How to reach me: **togruleminov3@gmail.com**
+- ⚡ Fun fact: **I am Funny**
 
-- ⚡ Fun fact **I am Funny**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/togruleminov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="togruleminov" height="30" width="40" /></a>
-</p>
+## 🛠️ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### 💻 Frontend
+&lt;p align="left"&gt;
+  &lt;img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /&gt;
+  &lt;img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /&gt;
+&lt;/p&gt;
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=togruleminov&show_icons=true&locale=en&layout=compact" alt="togruleminov" /></p>
+### 🎨 Styling
+&lt;p align="left"&gt;
+  &lt;img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /&gt;
+&lt;/p&gt;
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=togruleminov&show_icons=true&locale=en" alt="togruleminov" /></p>
+### 🗄️ Backend & Database
+&lt;p align="left"&gt;
+  &lt;img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /&gt;
+&lt;/p&gt;
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=togruleminov&" alt="togruleminov" /></p>
+### 🛠️ Tools & DevOps
+&lt;p align="left"&gt;
+  &lt;img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /&gt;
+&lt;/p&gt;
 
+---
+
+## 📊 GitHub Stats
+
+&lt;p align="center"&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api?username=TogrulEminov&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C8102E&icon_color=C8102E&text_color=FFFFFF" alt="GitHub Stats" height="180" /&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TogrulEminov&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C8102E&text_color=FFFFFF" alt="Top Languages" height="180" /&gt;
+&lt;/p&gt;
+
+&lt;p align="center"&gt;
+  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=TogrulEminov&theme=radical&hide_border=true&background=0D1117&stroke=C8102E&ring=C8102E&fire=C8102E&currStreakLabel=C8102E" alt="GitHub Streak" /&gt;
+&lt;/p&gt;
+
+---
+
+## 🤝 Connect With Me
+
+&lt;p align="left"&gt;
+  &lt;a href="https://linkedin.com/in/togruleminov" target="_blank"&gt;
+    &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /&gt;
+  &lt;/a&gt;
+  &lt;a href="mailto:togruleminov3@gmail.com"&gt;
+    &lt;img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /&gt;
+  &lt;/a&gt;
+  &lt;a href="https://github.com/TogrulEminov" target="_blank"&gt;
+    &lt;img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
+
+---
+
+&lt;p align="center"&gt;
+  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=C8102E&height=120&section=footer" /&gt;
+&lt;/p&gt;
